@@ -1,10 +1,9 @@
 # Changelog
 All Notable changes to `flipboxfactory/craft-psr3` will be documented in this file
 
-
 ## 2.0.0 - 2023-01-20
 ### Changed
-- Updated dependencies: `psr/log` and `craftcms/cms` for php 8 compatibility
+- Updated dependencies: `craftcms/cms` for php 8 compatibility
 
 ## 1.1.0 - 2019-02-06
 ### Changed
